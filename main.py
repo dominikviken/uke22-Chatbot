@@ -3,9 +3,10 @@ import time
 
 # Ordbok av Svar
 svar = {
-    # Introduksjoner
+    # Hilsen
     "god dag"           : "god dag til deg og",
     "hallo"             : "hallo",
+    "ha det bra"        : "ha det bra",
     
     # Spørsmål
     "hvordan er været"  : "vanlig",
